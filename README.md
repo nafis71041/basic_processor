@@ -37,7 +37,7 @@ The processor supports the following instructions:
 
 ### Instruction Encoding
 
-![Encoding]()
+![Encoding](https://github.com/nafis71041/Basic-Processor-in-C/blob/main/encoding.png)
 
 Assembly instructions are converted into machine instructions using a specific encoding scheme:
 
